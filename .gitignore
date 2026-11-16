@@ -1,0 +1,14 @@
+bin/
+stubbin/
+lib/
+__pycache__/
+*.jar
+*.jad
+*.map
+*.dat
+*.pkl
+*.pbf
+*.zip
+pal
+icon.png
+icon-big.png
