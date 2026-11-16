@@ -1,0 +1,1 @@
+package javax.microedition.location; public class Criteria { public static final int POWER_USAGE_LOW = 1, NO_REQUIREMENT = 0; public void setHorizontalAccuracy(int a) {} public void setCostAllowed(boolean b) {} public void setPreferredPowerConsumption(int p) {} public void setPreferredResponseTime(int t) {} }

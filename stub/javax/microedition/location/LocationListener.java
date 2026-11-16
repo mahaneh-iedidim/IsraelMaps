@@ -1,0 +1,1 @@
+package javax.microedition.location; public interface LocationListener { void locationUpdated(LocationProvider p, Location l); void providerStateChanged(LocationProvider p, int s); }

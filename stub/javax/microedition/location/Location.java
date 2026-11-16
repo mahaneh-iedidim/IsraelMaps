@@ -1,0 +1,1 @@
+package javax.microedition.location; public class Location { public boolean isValid() { return false; } public QualifiedCoordinates getQualifiedCoordinates() { return null; } public float getSpeed() { return 0; } public float getCourse() { return 0; } }

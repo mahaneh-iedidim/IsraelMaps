@@ -1,0 +1,1 @@
+package javax.microedition.location; public class LocationException extends Exception { }
